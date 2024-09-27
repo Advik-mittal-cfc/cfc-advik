@@ -1,5 +1,5 @@
 
-<a target="_blank" href="https://cfc-calc-advik.streamlit.app/"><img src="https://github.com/Advik-mittal-cfc/cfc-calc/blob/main/Carbon_foot_print_calculator_advik/media/background_min.jpg"></img></a>
+<a target="_blank" href="https://cfc-advik.streamlit.app/"><img src="https://github.com/Advik-mittal-cfc/cfc-advik/blob/main/media/background_min.jpg"></img></a>
 
 ## 🌳About Carbon Footprint Calculator Project🌳
 
@@ -39,7 +39,8 @@ The global annual carbon footprint has now surpassed an alarming 40 billion tons
    - Tested the complete application to ensure that both the backend and frontend components are functioning correctly.
 
 ## 👩‍🏫How to use
-Enter https://cfc-calc-advik.streamlit.app/. If the app is asleep due to Streamlit's policy, please wait a few moments for it to wake up.
+Enter https://cfc-advik.streamlit.app/. If the app is asleep due to Streamlit's policy, please wait a few moments for it to wake up.
 
 Best regards, Advik Mittal
 
+© 2024 Advik's Carbon Footprint Project. All rights reserved. No part of this publication shall be used as a whole or a part without a written permission of the author. It is a punishable offense.
