@@ -11,6 +11,8 @@ from PIL import Image, ImageDraw, ImageFont
 import base64
 from functions import *
 
+const port = process.env.PORT || 8501;
+
 st.set_page_config(layout="wide",page_title="Carbon Footprint Calculator", page_icon="./media/favicon.ico")
 
 def get_base64(bin_file):
