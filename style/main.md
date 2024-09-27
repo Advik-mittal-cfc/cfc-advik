@@ -18,3 +18,6 @@ Measuring and managing your carbon footprint encourages eco-friendly choices, fo
 
 #### 🍃Responsibility
 Acknowledging and addressing your carbon impact demonstrates social and environmental responsibility.
+
+
+© 2024 Advik's Carbon Footprint Project. All rights reserved
