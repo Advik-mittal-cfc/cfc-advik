@@ -95,7 +95,7 @@ def component():
     internet_daily = tab4.slider('What is your daily internet usage in hours?', 0, 24, 0)
 
     shower = tab5.selectbox('How often do you take a shower?', ['daily', 'twice a day', 'more frequently', 'less frequently'])
-    grocery_bill = tab5.slider('Monthly grocery spending in rupees', 0, 500, 0) / 83.6
+    grocery_bill = tab5.slider('Monthly grocery spending in rupees', 0, 90000, 0) / 83.6
     clothes_monthly = tab5.slider('How many clothes do you buy monthly?', 0, 30, 0)
 
     data = {'Body Type': body_type,
