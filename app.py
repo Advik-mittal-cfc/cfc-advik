@@ -155,7 +155,7 @@ pop = """
 """
 col2.markdown(pop, unsafe_allow_html=True)
 
-if home.button("🏡"):
+if home.button("🏠"):
     click_element('tab-0')
 _,resultmid,_ = result.columns([1,2,1])
 
